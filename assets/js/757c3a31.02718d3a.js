@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[215],{8704:function(s){s.exports=JSON.parse('{"allTagsPath":"/easypos/blog/tags","slug":"/easypos/blog/tags/hola","name":"hola","count":1,"permalink":"/easypos/blog/tags/hola"}')}}]);
